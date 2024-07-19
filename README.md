@@ -1,1 +1,2 @@
 # PRODIGY_ML_01
+## This project aims to predict house prices using linear regression based on several features. The dataset includes variables such as area, number of bedrooms and bathrooms, and categorical features like main road access, presence of a guest room, basement, hot water heating, air conditioning, parking spaces, preferred area, and furnishing status. By analyzing these features, the model will help estimate house prices, providing valuable insights for potential buyers and sellers.
